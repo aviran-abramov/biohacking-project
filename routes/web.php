@@ -13,3 +13,7 @@ Route::get('/supplements', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/articles', function () {
+    return view('articles');
+});
