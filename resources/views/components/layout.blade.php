@@ -7,6 +7,8 @@
     <title>Biohacking Project</title>
 </head>
 <body>
+    <x-nav />
+
     {{ $slot }}
 </body>
 </html>
