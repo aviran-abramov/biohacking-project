@@ -8,6 +8,20 @@
     </p>
 
     <p>
-        In just 100g of black lentils for example, they have: 26.7g of proteins, 60g of carbs, 1.1g of fats, 356 calories, and 14.5g of fibers!
+        In just 100g of black lentils (Also called: beluga lentils) for example, they have: 26.7g of proteins, 60g of carbs, 1.1g of fats, 356 calories, and 14.5g of fibers!
+    </p>
+
+    <div>The Benefits Of Soaking Lentils</div>
+    <p>
+        Soaking has a number of benefits. <strong>It is a great way to make them easier to digest</strong>, and get more nutrients. <strong>If not soaked, they can sometimes cause bloating and gas</strong> thanks to their phytates and lectins. By soaking the lentils, we can neutralize the compounds. Soaking also helps to release enzymes that break down parts of lentils, resulted in easier and absorption of their nutrients.
+    </p>
+
+    <p>
+        Soaking the lentils also boosts our absorption of minerals like iron, zinc and calcium. The enzyme phytate is included in the lentils, and when soaking it is being activated. It helps in breaking down the acids and binding calcium, iron and zinc.
+    </p>
+
+    <div>How To Soak Lentils</div>
+    <p>
+        In order to soak the lentils, put the lentils in a strainer, flush in water for 10-20 seconds, and put them in a container. After that, put around 2.5x of water (For example, 50g lentils, 125ml water). Let it soak for around 8-10 hours. Less is also an option, but 8 hours is much better!
     </p>
 </x-layout>
