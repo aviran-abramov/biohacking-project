@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Supplement;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -7,7 +8,9 @@ Route::get('/', function () {
 });
 
 Route::get('/supplements', function () {
-    return view('supplements');
+    return view('supplements', [
+        "supplements" => Supplement::all()
+    ]);
 });
 
 Route::get('/contact', function () {
