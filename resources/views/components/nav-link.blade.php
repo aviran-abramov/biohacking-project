@@ -3,4 +3,4 @@
     'active' => false
 ])
 
-<a href="{{ $href }}" class="{{ $active ? 'font-bold' : '' }}">{{ $slot }}</a>
+<a href="{{ $href }}" class="p-2 {{ $active ? 'font-bold' : '' }}">{{ $slot }}</a>
