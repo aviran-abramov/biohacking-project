@@ -1,4 +1,4 @@
-<nav class="p-4 flex items-center gap-8 w-[1100px] m-auto">
+<nav class="p-4 pl-0 flex items-center gap-8 w-[1100px] m-auto">
     <a class="font-bold text-2xl" href="/">My Longevity Protocols</a>
 
     <ul class="flex items-center gap-4">

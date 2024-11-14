@@ -13,7 +13,9 @@
     </header>
 
     <main>
-        {{ $slot }}
+        <div class="max-w-[1100px] m-auto">
+            {{ $slot }}
+        </div>
     </main>
 </body>
 </html>
