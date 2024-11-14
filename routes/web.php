@@ -9,7 +9,7 @@ Route::get('/', function () {
 
 Route::get('/supplements', function () {
     return view('supplements', [
-        "supplements" => Supplement::all()
+        "supplements" => Supplement::orderBy('name')->get()
     ]);
 });
 
