@@ -5,10 +5,10 @@
     </header>
 
     {{-- Supplements Section --}}
-    <section class="flex gap-4 p-2">
+    <section class="flex flex-wrap justify-center gap-4 p-2 m-auto">
         @foreach ($supplements as $supplement)
             {{-- Supplement Card --}}
-            <article class="flex flex-col border border-gray-300 rounded p-4 pt-3 gap-2 flex-1">
+            <article class="flex flex-col w-[300px] border border-gray-300 rounded p-4 pt-3 gap-2">
                 <h3 class="font-semibold text-md">{{ $supplement->name }}</h3>
                 <div class="text-sm text-gray-500 font-medium">{{ $supplement->description }}</div>
 
