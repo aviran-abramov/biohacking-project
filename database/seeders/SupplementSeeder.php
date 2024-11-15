@@ -42,7 +42,7 @@ class SupplementSeeder extends Seeder
             [
                 "name" => "Apple Cider Vinegar",
                 "description" => "Aids digestion, supports weight management, balances blood sugar, boosts skin health, and promotes heart wellness.",
-                "purchase_url" => "https://iherb.com/pr/solaray-high-absorption-magnesium-glycinate-350-mg-120-vegcaps/112971"
+                "purchase_url" => "https://iherb.com/pr/bragg-organic-apple-cider-vinegar-with-the-mother-16-fl-oz-473-ml/5817"
             ]
         ];
 
